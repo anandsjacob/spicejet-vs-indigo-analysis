@@ -83,7 +83,10 @@ The analysis queries go beyond basic `SELECT`s — a few examples of what's insi
 - **Drill-through page** — right-click any year in any chart to see a complete year-in-detail breakdown (financials, operations, expenses, and major events for that specific year)
 - **Synced slicers** across all four pages
 - **Conditional formatting** — automatic red/yellow/green flagging on EBITDA margin, market share, and net profit tables
+## Dashboard Preview
 
+![Executive Summary](images/executive_summary.png)
+![Cost & Fuel Analysis](images/cost_fuel_analysis.png)
 ---
 
 ## Known Data Notes & Limitations
